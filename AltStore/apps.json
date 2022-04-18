@@ -2,5 +2,22 @@
     "name": "Nobody's AltStore Repo",
     "identifier": "live.justanobody.altrepo",
     "sourceURL": "https://repo.justanobody.live",
-    "apps": []
+    "apps": [
+        {
+            "name": "Ourea",
+            "bundleIdentifier": "com.nightwind.Ourea",
+            "developerName": "Third party shortcuts store",
+            "version": "0.1.2",
+            "versionDate": "2022-04-18",
+            "downloadURL": "https://github.com/NightwindDev/Ourea-Help/raw/main/Ourea.ipa",
+            "localizedDescription": "Custom store for third party shortcuts.",
+            "iconURL": "https://cdn.discordapp.com/attachments/933557683720712195/965066593342218291/OureaIcon.png",
+            "tintColor": "4232C6",
+            "size": 9855881,
+            "screenshotURLs": [
+                "https://cdn.discordapp.com/attachments/933557683720712195/965067034637525093/IMG_1069.PNG",
+                "https://cdn.discordapp.com/attachments/933557683720712195/965067034843041832/IMG_1063.PNG"
+            ]
+        }
+    ]
 }
