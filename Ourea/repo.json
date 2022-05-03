@@ -1,115 +1,23 @@
 [
      {
-        "name": "ClassicLS",
-        "author": "Broank",
+        "name": "Coming Soon",
+        "author": "JustANobody2107",
         "version": "1.0",  
-        "description": "Make your Lockscreen nostalgic!",
-        "longDescription": "https://broank.bss.design/ClassicLS.html",
-        "download": "https://www.icloud.com/shortcuts/7224c650724d48548ec40133e60f924c",
+        "description": "Coming soon!",
+        "longDescription": "",
+        "download": "",
         "compatibility": [
             "15.0",
             "15.4"
         ],
         "icons" : {
-            "shortcut": "https://i.pinimg.com/originals/27/5f/3e/275f3e0c0d7bad02ec08836a14ead214.jpg",
-            "author": "https://cdn.discordapp.com/avatars/164046893528121345/f576f06468b49488e66f02dd69263fe5.webp?size=128",
-            "banner": "https://media.discordapp.net/attachments/799301840247324764/957042406484738108/Untitled2-2.png?width=772&height=658"
+            "shortcut": "",
+            "author": "",
+            "banner": ""
         },
         "screenshots" : [
-            "https://broank.bss.design/assets/img/shortcutsClassicaLS.png?h=8bec2099d0595ec7482991cae939d665"
+            ""
         ],
-        "olderVersions": {
-            "0.9": "https://icloud.com/shortcuts/18394fuirg87456t7f7e8g98",
-            "0.8.1": "https://icloud.com/shortcuts/uefjvd8ve7717348heve354556"
-        }
+        "olderVersions": {}
     },
-    {
-        "name": "ClassicaLS (Legacy)",
-        "author": "Broank",
-        "version": "1.0",  
-        "description": "(FOR iOS 14) Make your Lockscreen nostalgic!",
-        "longDescription": "https://broank.bss.design/ClassicLS.html",
-        "download": "https://www.icloud.com/shortcuts/51a8c49b73ab48d5a916db4c244ab1d4",
-        "compatibility": [
-            "14.3",
-            "15.4"
-        ],
-        "icons" : {
-            "shortcut": "https://i.pinimg.com/originals/27/5f/3e/275f3e0c0d7bad02ec08836a14ead214.jpg",
-            "author": "https://cdn.discordapp.com/avatars/164046893528121345/f576f06468b49488e66f02dd69263fe5.webp?size=128",
-            "banner": "https://media.discordapp.net/attachments/799301840247324764/957042406484738108/Untitled2-2.png?width=772&height=658"
-        },
-        "screenshots" : [
-            "https://broank.bss.design/assets/img/shortcutsClassicaLS.png?h=8bec2099d0595ec7482991cae939d665"
-        ]
-    },
-    {
-        "name": "Homescreen Creator",
-        "author": "Broank",
-        "version": "1.0",  
-        "description": "An awesome enhancement to your homescreen!",
-        "longDescription": "https://broank.bss.design/HSC.html",
-        "download": "https://www.icloud.com/shortcuts/a262d1133e294ed68ee1425b815d5dfe",
-        "compatibility": [
-            "14.0",
-            "15.4"
-        ],
-        "icons" : {
-            "shortcut": "https://i.pinimg.com/originals/27/5f/3e/275f3e0c0d7bad02ec08836a14ead214.jpg",
-            "author": "https://cdn.discordapp.com/avatars/164046893528121345/f576f06468b49488e66f02dd69263fe5.webp?size=128",
-            "banner": "https://pbs.twimg.com/media/FKQXkUQWYAAsa9j?format=jpg&name=large"
-        },
-        "screenshots" : [
-            "https://broank.bss.design/assets/img/HSCmasknonotch.png",
-            "https://broank.bss.design/assets/img/HSCmaskcard.png",
-            "https://broank.bss.design/assets/img/HSCmaskcarddock.png"
-        ]
-    },
-    {
-        "name": "Vertiblur",
-        "author": "Broank",
-        "version": "1.0",  
-        "description": "Blur half of your homescreen!",
-        "longDescription": "https://broank.bss.design/Shortcuts.html#vb",
-        "download": "https://www.icloud.com/shortcuts/d17f4584ba9d4318bdf05db39eb14b78",
-        "compatibility": [
-            "15.0",
-            "15.4"
-        ],
-        "icons" : {
-            "shortcut": "https://i.pinimg.com/originals/27/5f/3e/275f3e0c0d7bad02ec08836a14ead214.jpg",
-            "author": "https://cdn.discordapp.com/avatars/164046893528121345/f576f06468b49488e66f02dd69263fe5.webp?size=128",
-            "banner": "https://broank.bss.design/assets/img/shortcutsVertiblur.png?h=cb202c508dc652aca84c32cd8e706682"
-        },
-        "screenshots" : [
-            "https://broank.bss.design/assets/img/shortcutsVertiblur.png?h=cb202c508dc652aca84c32cd8e706682"
-        ],
-        "olderVersions": {
-            "0.2": "https://icloud.com/shortcuts/18394fuirg87456t7f7e8g98",
-            "0.0.1": "https://icloud.com/shortcuts/uefjvd8ve7717348heve354556"
-        }
-    },
-    {
-        "name": "Wetr",
-        "author": "Broank",
-        "version": "1.0",  
-        "description": "The weather inside is beautiful.",
-        "longDescription": "https://broank.bss.design/Wetr.html",
-        "download": "https://www.icloud.com/shortcuts/6b911149f7004157b23bef7bd70b3cbd",
-        "compatibility": [
-            "15.1",
-            "15.4"
-        ],
-        "icons" : {
-            "shortcut": "https://broank.bss.design/assets/img/WetrIcon2.png?h=edcf9b3c019c03aaea38e5eeefb21edf",
-            "author": "https://cdn.discordapp.com/avatars/164046893528121345/f576f06468b49488e66f02dd69263fe5.webp?size=128",
-            "banner": "https://broank.bss.design/assets/img/1.jpg?h=bb41c89c1577a18bbb393b6cae211d34"
-        },
-        "screenshots" : [
-            "https://broank.bss.design/assets/img/shortcutsWetr2.png?h=3310851266670ad6e52680fdc223e2f7",
-            "https://broank.bss.design/assets/img/shortcutsWetr3.png?h=c77cbd9149878d26cfe478c6cd4e4f90",
-            "https://broank.bss.design/assets/img/shortcutsWetr4.png?h=ed3fcb51b1e19ca5a70903ac11836334",
-            "https://broank.bss.design/assets/img/shortcutsWetr.png?h=b49b652a4e15add4630e344aa72ac55b"
-        ]
-    }
 ]
